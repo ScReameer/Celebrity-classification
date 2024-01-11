@@ -8,8 +8,8 @@
 Модель, взятая за основу для *fine-tuning* - [<b><i>ResNeXt</i> с 50-ю слоями</b>](https://pytorch.org/vision/main/models/generated/torchvision.models.resnext50_32x4d.html)
 
 Результаты:
-* $ \text{Accuracy}_{\text{test}} \approx 0.97 $
-* $ F_1\text{-score}_{\text{test}} \approx 0.97 $
+* $\text{Accuracy}_{\text{test}} \approx 0.97$
+* $F_1\text{-score}_{\text{test}} \approx 0.97$
 
 ## Использование готовой модели в *Python*
 1. *Python 11.x*
